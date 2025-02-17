@@ -1,0 +1,30 @@
+# robots.txt for CV Senpai
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /privacy-policy.html
+Allow: /terms-conditions.html
+Allow: /404.html
+Allow: /blog
+Allow: /sitemap.xml
+
+# Disallow development and asset directories
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /dev/
+Disallow: /temp/
+Disallow: /test/
+
+# Crawl delay for better server performance
+Crawl-delay: 10
+
+# Primary sitemap location
+Sitemap: https://cvsenpai.com/sitemap.xml
+
+# Secondary sitemaps if needed
+# Sitemap: https://blog.cvsenpai.com/sitemap.xml
+# Sitemap: https://app.cvsenpai.com/sitemap.xml
