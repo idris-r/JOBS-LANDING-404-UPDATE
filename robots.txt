@@ -17,5 +17,5 @@ Crawl-delay: 10
 Sitemap: https://cvsenpai.com/sitemap.xml
 
 # Secondary sitemaps if needed
-# Sitemap: https://blog.cvsenpai.com/sitemap.xml
-# Sitemap: https://app.cvsenpai.com/sitemap.xml
+Sitemap: https://blog.cvsenpai.com/sitemap.xml
+Sitemap: https://app.cvsenpai.com/sitemap.xml
